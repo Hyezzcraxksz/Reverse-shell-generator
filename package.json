@@ -1,0 +1,11 @@
+{
+  "name": "reverse-shell-generator",
+  "version": "1.0.0",
+  "bin": {
+    "revshellgen": "./bin/revshellgen.js"
+  },
+  "dependencies": {},
+  "scripts": {
+    "start": "node bin/revshellgen.js"
+  }
+}
